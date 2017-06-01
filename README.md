@@ -5,7 +5,7 @@ Cross-platform BarcodeScanner for Cordova / PhoneGap.
 
 This plugins is based on two BarcodeScanner plugins.
 - Android part is based on [phonegap-plugin-barcodescanner](https://github.com/phonegap/phonegap-plugin-barcodescanner)
-- Android part is based on [plugin-barcode-ios](https://github.com/Mole93/plugin-barcode-ios)
+- iOS part is based on [plugin-barcode-ios](https://github.com/Mole93/plugin-barcode-ios)
 
 ## Installation
 
